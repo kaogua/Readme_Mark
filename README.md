@@ -1,3 +1,6 @@
+[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/) 只要参考这篇文件，github readme的所有语法都在里面
+===================================
+
 针对中文,演示Markdown的各种语法
   
 大标题
